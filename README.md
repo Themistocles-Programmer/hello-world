@@ -1,2 +1,2 @@
 # hello-world
-exercício - Setup de ferramentas
+Exercício - Setup de ferramentas
